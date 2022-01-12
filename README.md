@@ -1,13 +1,8 @@
 # Hello World! 👋
-<img src="https://img.shields.io/badge/-BLOG-blue"> &nbsp;
-<img src="https://img.shields.io/badge/LinkedIn-#0A66C2-square&logo=linkedin&logoColor=white"/>
 
+<a href="https://embejied.tistory.com"><img src="https://img.shields.io/badge/-BLOG-blue"></a> &nbsp;
 
 Jisu Kim received his B.S. degree (2015) and M.S. degree (2017) in Electronics Engineering from Pukyong National University. He has industrial experiences in the fields of Microsurgical robots, Control, Firmware, and Microcontroller-based circuits. His research interests include haptics, control, robot system modeling and design, and reinforcement learning. Currently, he is a Ph.D. student in the Department of Robotics Engineering, DGIST.
-
-<br>
-
-[![Embejisu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Embejisu)](https://github.com/anuraghazra/github-readme-stats)
 
 <br>
 <br>
