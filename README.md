@@ -5,12 +5,13 @@
 Jisu Kim received his B.S. degree (2015) and M.S. degree (2017) in Electronics Engineering from Pukyong National University. He has industrial experiences in the fields of Microsurgical robots, Control, Firmware, and Microcontroller-based circuits. His research interests include haptics, control, robot system modeling and design, and reinforcement learning. Currently, he is a Ph.D. student in the Department of Robotics Engineering, DGIST.
 <br><br>
 
+
 ## 💪 Tech Stack
 **Programming** <p align="left">
   <image src="https://user-images.githubusercontent.com/54715770/149139505-2404e961-4917-490e-b253-ecbac8f99969.png" height="55"> &nbsp; <!-- C -->
   <image src="https://user-images.githubusercontent.com/54715770/149139585-ce6485c6-4f1e-4760-9b71-d1f8c83faf8c.png" height="55"> &nbsp; <!-- C++ -->
   <image src="https://user-images.githubusercontent.com/54715770/149140875-3f715857-0db0-4176-9fea-295f0180d514.png" height="55"> &nbsp; <!-- C# -->
-  <image src="https://user-images.githubusercontent.com/54715770/149141255-279c5116-428f-4a6a-9497-7c4f72c3bc89.png" height="55"> &nbsp; <!-- MATLAB -->
+  <image src="https://user-images.githubusercontent.com/54715770/149249157-fbaa0998-a2b1-4490-af6d-f47d67fca462.png" height="55"> &nbsp; <!-- MATLAB -->
 </p>
 <br>
 
