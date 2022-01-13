@@ -3,9 +3,7 @@
 <a href="https://www.linkedin.com/in/jisu-kim-48345318a/" target="_blank"> <img src ="https://img.shields.io/badge/LinkedIn-0A66C2.svg?&style=flat&logo=LinkedIn&logoColor=white"/></a>
 
 Jisu Kim received his B.S. degree (2015) and M.S. degree (2017) in Electronics Engineering from Pukyong National University. He has industrial experiences in the fields of Microsurgical robots, Control, Firmware, and Microcontroller-based circuits. His research interests include haptics, control, robot system modeling and design, and reinforcement learning. Currently, he is a Ph.D. student in the Department of Robotics Engineering, DGIST.
-
-<br>
-<br>
+<br><br>
 
 ## 💪 Tech Stack
 **Programming** <p align="left">
@@ -23,7 +21,11 @@ Jisu Kim received his B.S. degree (2015) and M.S. degree (2017) in Electronics E
 </p>
 <br>
 
-**Modeling** <p align="left">
+**3Modeling** <p align="left">
 <image src="https://user-images.githubusercontent.com/54715770/149139650-a33dfa52-d3ef-4b88-9d6d-7b812f6d5d54.png" height="55"> &nbsp; <!-- Inventor -->
 <image src="https://user-images.githubusercontent.com/54715770/149139653-a0982566-4c6e-4895-a741-a68952d11290.png" height="55"> &nbsp; <!-- FreeCAD -->
 </p>
+  
+  ## 
+![Embejisu's github stats](https://github-readme-stats.vercel.app/api?username=Embejisu&show_icons=true)
+[![Embejisu's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Embejisu&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/Embejisu)
