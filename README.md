@@ -29,5 +29,5 @@ Jisu Kim received his B.S. degree (2015) and M.S. degree (2017) in Electronics E
 </p>
 
 #
-![Embejisu's github stats](https://github-readme-stats.vercel.app/api?username=embejisu&show_icons=true&theme=tokyonight)
+![Embejisu's github stats](https://github-readme-stats.vercel.app/api?username=embejisu&show_icons=true)
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=embejisu&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)
