@@ -2,7 +2,7 @@
 <a href='https://embejied.tistory.com' target='_blank'> <img src="https://img.shields.io/badge/BLOG-006600.svg?&style=flat"> </a>&nbsp;
 <a href="https://www.linkedin.com/in/jisu-kim-48345318a/" target="_blank"> <img src ="https://img.shields.io/badge/LinkedIn-0A66C2.svg?&style=flat&logo=LinkedIn&logoColor=white"/></a>
 
-Jisu Kim received his B.S. degree (2015) and M.S. degree (2017) in Electronics Engineering from Pukyong National University. He has industry experiences in the fields of Microsurgical robots, Control, Firmware, and Microcontroller-based circuits. His research interests include haptics, control, robot system modeling and design, and reinforcement learning. Currently, he is a Ph.D. student in the Department of Robotics Engineering, DGIST.
+Jisu Kim received his B.S. degree (2015) and M.S. degree (2017) in Electronic Engineering from Pukyong National University. He has industry experiences in the fields of Microsurgical robots, Control, Firmware, and Microcontroller-based circuits. His research interests include haptics, control, robot system modeling and design, and reinforcement learning. Currently, he is a Ph.D. student in the Department of Robotics Engineering, DGIST.
 <br><br>
 
 
